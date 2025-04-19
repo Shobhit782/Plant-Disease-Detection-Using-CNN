@@ -1,2 +1,1 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+/image-based-ident-api/saved_model/* linguist-vendored
