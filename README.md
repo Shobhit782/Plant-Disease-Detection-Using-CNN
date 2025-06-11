@@ -4,10 +4,6 @@
 
 This project aims to develop a Plant Disease Identification System using a Convolutional Neural Network (CNN) model. It utilizes a custom-trained CNN model to identify diseases in plants. It also incorporates FastAPI as the API framework to connect the machine learning model with a MERN (MongoDB, ExpressJs, ReactJS, NodeJs) web application.
 
-## Presentation:
-
-To learn more about the project, please check out the [Project Presentation](https://coepac-my.sharepoint.com/:p:/g/personal/shindeaa21_comp_coeptech_ac_in/EWW31xm7lX9GrSzAIJXkL00BMacLcuYP9JnGAonCAINKiQ?e=7cwned). The presentation offers in-depth information about the project's goals, approach, and outcomes.
-
 ## Technologies/Languages Used:
 
 1. Python
